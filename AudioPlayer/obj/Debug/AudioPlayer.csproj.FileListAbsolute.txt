@@ -1,0 +1,151 @@
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\App.baml
+C:\Users\altel\source\repos\AudioPlayer\AudioPlayer\obj\Debug\Images\ResourcesImg.baml
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\App.baml
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\Images\ResourcesImg.baml
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\Интерфейсы\human-machine interfaces\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\App.baml
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\Images\ResourcesImg.baml
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\altel\Desktop\Labs\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+D:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+H:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+F:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\PlaylistCreation.g.cs
+E:\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\PlaylistCreation.baml
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\PlaylistCreation.g.cs
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\App.baml
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\PlaylistCreation.baml
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\altel\OneDrive\Рабочий стол\Human-machine interfaces\Lab3(AudioPlayer)\AudioPlayer\obj\Debug\AudioPlayer.pdb

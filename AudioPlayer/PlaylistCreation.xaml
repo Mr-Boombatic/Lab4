@@ -1,0 +1,27 @@
+﻿<Window x:Class="AudioPlayer.PlaylistCreation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AudioPlayer"
+        mc:Ignorable="d"
+        Title="Создание плейлиста" Height="106.762" Width="395.722">
+    <Grid Background="DarkGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox Name="Сategory" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Grid.Row="0" Grid.Column="0" Margin="10,7,5,6">
+            <TextBlock x:Name="Performer">Исполнитель</TextBlock>
+            <TextBlock x:Name="Album">Альбом</TextBlock>
+            <TextBlock x:Name="Title">Название</TextBlock>
+        </ComboBox>
+        <TextBox Name="PlaylistName" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1" Height="30" Margin="5,7,10,6"/>
+        <Button  Grid.Row="1" Grid.Column="1" Content="Добавить"  HorizontalAlignment="Right" Width="70" Margin="0,7,10,6" Click="CreatePlaylist"/>
+        <Button  Grid.Row="1" Grid.Column="0" Content="Отмена" HorizontalAlignment="Left" Width="70" Margin="10,7,0,6"/>
+    </Grid>
+</Window>
